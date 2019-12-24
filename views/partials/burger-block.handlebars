@@ -1,0 +1,13 @@
+<div class="container" style="margin-bottom: 20px">
+    <div class="row">
+        <div class="col" style="background-color: white">
+    {{id}}.
+    {{burger_name}}
+    </div>
+    <div class="col">
+    <button class="devoured-state" data-id="{{id}}" data-newdevour="{{devoured}}" style="border-radius: 5px;color: white; background-color: #3489b9; font-size: 12px; font-family:'Courier New', Courier, monospace">
+        {{#if devoured}}Devour it!{{else}}All Gone!{{/if}}
+    </button>
+    </div>
+</div>
+</div>
