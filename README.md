@@ -21,15 +21,15 @@ This project was created using newly learned material related to creating server
 6. Now go CREATE SOME BURGERS!
 
 
-## Below is a screenshot of Add/View department functionality in terminal:
+## Below is a screenshot of the loaded homepage of the app:
 
  ![App Function](https://github.com/znylen88/Burger/blob/master/public/assets/js/Demo-Original-Burgers.png)
 
-## Below is a screenshot of Add/View role functionality in terminal:
+## Below is a screenshot of ADD burger functionality:
 
  ![App Function](https://github.com/znylen88/Burger/blob/master/public/assets/js/Demo-Add-New-Burger.png)
  
-## Below is a screenshot of Add/View employee functionality in terminal:
+## Below is a screenshot of MOVING burgers to the right of the screen once "devoured":
 
  ![App Function](https://github.com/znylen88/Burger/blob/master/public/assets/js/Demo-Move-To-Right-Of-Screen.png)
  
