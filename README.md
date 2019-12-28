@@ -23,7 +23,7 @@ This project was created using newly learned material related to creating server
 
 ## Below is a screenshot of Add/View department functionality in terminal:
 
- ![App Function](public/assets/Demo-Add-New-Burger.png)
+ ![App Function](https://github.com/znylen88/Burger/blob/master/public/assets/js/Demo-Original-Burgers.png)
 
 ## Below is a screenshot of Add/View role functionality in terminal:
 
