@@ -27,13 +27,10 @@ This project was created using newly learned material related to creating server
 
 ## Below is a screenshot of Add/View role functionality in terminal:
 
- ![App Function](Add-View-Roles.png)
+ ![App Function](https://github.com/znylen88/Burger/blob/master/public/assets/js/Demo-Add-New-Burger.png)
  
 ## Below is a screenshot of Add/View employee functionality in terminal:
 
- ![App Function](Add-View-Employees.png)
+ ![App Function](https://github.com/znylen88/Burger/blob/master/public/assets/js/Demo-Move-To-Right-Of-Screen.png)
  
- ## Below is a screenshot of the Update employee role functionality in terminal:
- 
- ![App Function](Update-Employee-Role.png)
 
