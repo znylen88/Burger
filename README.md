@@ -23,7 +23,7 @@ This project was created using newly learned material related to creating server
 
 ## Below is a screenshot of Add/View department functionality in terminal:
 
- ![App Function](Add-View-Departments.png)
+ ![App Function](Demo-Add-New-Burger.png)
 
 ## Below is a screenshot of Add/View role functionality in terminal:
 
